@@ -75,3 +75,104 @@ img{
 .wantuback{
     text-decoration: none;
 }
+.virus{
+    border: 10px solid blue;
+    background-color: lightgray;
+    margin: 10% 100px;
+}
+.warning{
+    font-family: Codehack;
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    margin-top: 0%;
+    border: 10px black solid;
+    margin-bottom: 0px;
+}
+@font-face{
+    src:url("../assets/fonts/Nightmare\ Codehack.otf");
+    font-family: Codehack;
+}
+.yes{
+    display: inline-block;
+    font-size: 50px;
+    border: dotted black 5px;
+    width: 49%;
+    height: 100px;
+    padding-top: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: black;
+    font-family: Helvetica;
+
+}
+.no{
+    display: inline-block;
+    font-size: 50px;
+    border: dotted black 5px;
+    width: 49%;
+    height: 100px;
+    padding-top: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Helvetica;
+}
+.herobrine{
+    position: absolute;
+    width: 15vw;
+    top: 80px;
+    left: 90px;
+
+}
+.cave{
+   margin: 10px ;
+   display: block;
+}
+.MCendcreds{
+    background: #382f1d;
+    background: linear-gradient(178deg, rgba(56, 47, 29, 0.87) 0%, rgba(125, 95, 69, 1) 48%, rgba(255, 255, 255, 1) 100%);
+    padding: 50px;
+    margin: 10px 1px;
+    font-family: Minecraft;
+    text-align: center;
+    background-color: black;
+    line-height: 3;
+}
+@font-face{
+    src:url("../assets/fonts/Minecraft-Regular.otf");
+    font-family: Minecraft;
+}
+.meep{
+    position: absolute;
+    top: 600px;
+    right: 100px;
+    width: 20%;
+}
+.click{
+    position: absolute;
+    left: 530px;
+    top: 1170px;
+    width: 7vw;
+}
+.poem{
+    background-image: linear-gradient(white, white, white, black, red);
+    color: transparent;
+    background-clip: text;
+}
+.fly{
+    position: absolute;
+    left: 100px;
+    bottom: -4910px;
+}
+.angel{
+    position: absolute;
+    right: 400px;
+    bottom: -5740px;
+    width: 50vw;
+}
+.hiero{
+    color: black;
+    position: absolute;
+}
